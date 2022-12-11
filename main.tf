@@ -1,8 +1,4 @@
 #root/main.tf
-#TODO
-#iterate through multiple pool members
-#automate pool name based on vs name
-#get pool from security group
 
 terraform {
   required_providers {
